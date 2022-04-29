@@ -1,0 +1,116 @@
+{
+  "name": "Test",
+  "description": "nft art",
+  "collection": [
+    {
+      "name": "#1",
+      "description": "nft art",
+      "external_url": "",
+      "image": "1.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "programming-g82a059955_1920"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "1.png",
+            "type": "image/png"
+          }
+        ],
+        "creators": []
+      },
+      "compiler": "https://nft-generator.art"
+    },
+    {
+      "name": "#2",
+      "description": "nft art",
+      "external_url": "",
+      "image": "2.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "download"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "2.png",
+            "type": "image/png"
+          }
+        ],
+        "creators": []
+      },
+      "compiler": "https://nft-generator.art"
+    },
+    {
+      "name": "#3",
+      "description": "nft art",
+      "external_url": "",
+      "image": "3.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "weq"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "3.png",
+            "type": "image/png"
+          }
+        ],
+        "creators": []
+      },
+      "compiler": "https://nft-generator.art"
+    },
+    {
+      "name": "#4",
+      "description": "nft art",
+      "external_url": "",
+      "image": "4.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "test"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "4.png",
+            "type": "image/png"
+          }
+        ],
+        "creators": []
+      },
+      "compiler": "https://nft-generator.art"
+    },
+    {
+      "name": "#5",
+      "description": "nft art",
+      "external_url": "",
+      "image": "5.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "download"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "5.png",
+            "type": "image/png"
+          }
+        ],
+        "creators": []
+      },
+      "compiler": "https://nft-generator.art"
+    }
+  ]
+}

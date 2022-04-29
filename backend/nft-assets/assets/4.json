@@ -1,0 +1,22 @@
+{
+  "name": "#4",
+  "description": "nft art",
+  "external_url": "",
+  "image": "4.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "test"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "4.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": []
+  },
+  "compiler": "https://nft-generator.art"
+}
